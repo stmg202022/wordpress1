@@ -1,3 +1,2 @@
 <?php
-
-echo "index of my-plugin";
+// Silence is golden.

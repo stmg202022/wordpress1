@@ -9,3 +9,14 @@
  */
 
 //  echo "Do not write Here...";
+
+// so
+
+if(!defined("ABSPATH")){
+    // header("Location: /");
+    header("Location: /");
+    // die("Can't access");
+    die("");
+}
+
+// echo "Hi from my plugin...";

@@ -135,3 +135,6 @@
 [18-Jan-2024 16:16:32 UTC] Executing theme setup.
 [18-Jan-2024 16:16:36 UTC] Executing theme setup.
 [18-Jan-2024 16:16:40 UTC] Executing theme setup.
+[19-Jan-2024 05:22:46 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Samson\Local Sites\demo2\app\public\wp-content\plugins\my-plugin\my-plugin.php on line 18
+[19-Jan-2024 05:22:48 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Samson\Local Sites\demo2\app\public\wp-content\plugins\my-plugin\my-plugin.php on line 18
+[19-Jan-2024 05:22:48 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Samson\Local Sites\demo2\app\public\wp-content\plugins\my-plugin\my-plugin.php on line 18
