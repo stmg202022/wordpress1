@@ -14,9 +14,24 @@
 
 if(!defined("ABSPATH")){
     // header("Location: /");
-    header("Location: /");
+    header("Location: /public");
     // die("Can't access");
     die("");
 }
 
-// echo "Hi from my plugin...";
+function my_plugin_activate() {  
+}
+
+register_activation_hook(
+    __FILE__, 
+    "my_plugin_activate"
+);
+
+function my_plugin_deactivate() {  
+}
+
+register_deactivation_hook(
+	__FILE__,
+	'my_plugin_deactivate'
+    
+);
